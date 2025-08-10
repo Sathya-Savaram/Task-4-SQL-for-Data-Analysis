@@ -22,7 +22,7 @@ Dataset: [Television Brands Ecommerce Dataset](https://www.kaggle.com/datasets/d
 - TV_Final.csv → Original dataset from Kaggle
 - tv_sales.sqlite → SQLite database file
 - queries.sql → All SQL queries used
-- screenshots/ → Query output screenshots
+- screenshots → Query output screenshots
 - README.md → This summary file
 
 ## ✅ Deliverables
